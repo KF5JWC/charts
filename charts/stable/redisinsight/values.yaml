@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: redislabs/redisinsight
-  tag: 1.14.0@sha256:b03ab1426d0d861b0370e05ee670a8819c8ab36b987ca59e4a3e92e0038d089c
+  tag: 2.52.0@sha256:24413d4c92a0e4375ec81c93ff6ad4538ccd6b1101a24d5f25c95564673b7101
 securityContext:
   container:
     readOnlyRootFilesystem: false
